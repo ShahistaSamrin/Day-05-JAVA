@@ -1,3 +1,14 @@
+
+/*4
+121 456 675 890
+10
+not a Armstrong
+405
+not a Armstrong
+684
+not a Armstrong
+1241
+not a Armstrong*/
 import java.util.*;
 public class Armstrong{
     public static void main(String args[])

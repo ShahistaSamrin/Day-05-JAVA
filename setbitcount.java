@@ -1,3 +1,6 @@
+/*1
+10
+count=2*/
 import java.util.*;
 public class setbitcount{
     public static void main(String args[]){

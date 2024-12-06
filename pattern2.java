@@ -1,3 +1,10 @@
+output:
+/*A B C D E 
+A B C D E
+A B C D E
+A B C D E
+A B C D E*/
+
 import java.util.*;
 public class pattern2{
     public static void main(String args[]){

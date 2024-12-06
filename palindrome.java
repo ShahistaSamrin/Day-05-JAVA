@@ -1,3 +1,11 @@
+/*3 
+23 212 191
+32
+not a palindrome
+212
+palindrome
+191
+palindrome*/
 import java.util.*;
 public class palindrome{
     public static void main(String args[])

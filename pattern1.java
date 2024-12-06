@@ -1,3 +1,9 @@
+output:
+/*1 2 3 4 5 
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5*/
 import java.util.*;
 public class pattern1{
     public static void main(String args[]){
